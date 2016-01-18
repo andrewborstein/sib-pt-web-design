@@ -3,5 +3,7 @@ p {
 }
 .demo {
   background-color: #fafafa;
+  border: 1px solid #fafafa;
   padding: 30px;
+  text-align: center;
 }
