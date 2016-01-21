@@ -1,6 +1,9 @@
 h1.big {
   font-size: 64px;
 }
+.text-center {
+  text-align: center;
+}
 .demo {
   background-color: #fafafa;
   border: 1px solid #fafafa;
